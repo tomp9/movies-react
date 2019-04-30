@@ -1,0 +1,20 @@
+.poster{
+    width:100%;
+}
+.modal-poster{
+    width:50%;
+}
+
+h6 { font-family: 'Roboto'; margin: 0;}
+
+.modal,body.modal-open {
+    padding-right: 0!important
+}
+
+body.modal-open {
+    overflow: auto
+}
+
+body.scrollable {
+    overflow-y: auto
+}
